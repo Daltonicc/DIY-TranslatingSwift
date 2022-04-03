@@ -10,7 +10,7 @@
 
 ## WELCOME TO SWIFT
 
-### About Swift
+### [About Swift](https://github.com/Daltonicc/DIY-TranslatingSwift/issues/3)
 ### Version Compatibility
 ### A Swift Tour
 
