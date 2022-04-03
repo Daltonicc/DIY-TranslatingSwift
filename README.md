@@ -20,7 +20,8 @@
 ### Basic Operators
 ### Strings and Characters
 ### Collection Types
-* [Array](https://github.com/Daltonicc/DIY-TranslatingSwift/issues/1)
+* [Collection Types](https://github.com/Daltonicc/DIY-TranslatingSwift/issues/2)
+* [Arrays](https://github.com/Daltonicc/DIY-TranslatingSwift/issues/1)
 ### Control Flow
 ### Functions
 ### Closures
